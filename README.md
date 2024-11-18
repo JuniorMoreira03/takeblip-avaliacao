@@ -6,7 +6,7 @@ O fluxo é composto por uma série de etapas organizadas de forma sequencial, qu
 
 Validação de Respostas: Cada resposta do usuário é validada por expressões regulares (REGEX), garantindo que entradas inesperadas ou incorretas sejam tratadas adequadamente.
 
-Eventos Personalizados: O fluxo conta com eventos personalizados que geram relatórios detalhados sobre quais tópicos foram mais acessados pelos usuários. Também há um mecanismo para registrar quando o usuário demonstra interesse específico em tópicos relacionados a C#.
+Eventos Personalizados: O fluxo conta com eventos personalizados que geram relatórios detalhados sobre quais tópicos foram mais acessados pelos usuários. Também há um mecanismo para registrar quando o usuário participou ou não nos tópicos relacionados a C#.
 
 Requisições HTTP: A integração com uma API externa é realizada por meio de requisições HTTP, permitindo a coleta e envio de dados em tempo real durante a interação com o usuário.
 
